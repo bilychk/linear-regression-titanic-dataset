@@ -1,11 +1,11 @@
-# 🛳️ Titanic Survival Prediction — Linear Regression
+# Titanic Survival Prediction — Linear Regression
 
 This project explores the **Titanic dataset** using **linear regression** also both **TensorFlow** and **Keras** to predict passenger survival.  
 The goal is to understand which factors (like age, class, and gender) had the greatest impact on survival 
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 The notebook covers:
 - Data loading and cleaning with **Pandas**
 - Feature analysis and preprocessing
@@ -15,7 +15,7 @@ The notebook covers:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 After analyzing the dataset:
 - Most passengers were in their 20s or 30s  
 - The majority were **male**  
@@ -24,7 +24,7 @@ After analyzing the dataset:
 
 ---
 
-## 🧠 Skills Practiced
+## Skills Practiced
 - Data preprocessing and normalization  
 - Feature encoding (categorical & numerical)  
 - Model training and evaluation  
