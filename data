@@ -1,0 +1,4 @@
+Training data
+pd.read_csv('https://storage.googleapis.com/tf-datasets/titanic/train.csv') 
+Testing data
+pd.read_csv('https://storage.googleapis.com/tf-datasets/titanic/eval.csv')
